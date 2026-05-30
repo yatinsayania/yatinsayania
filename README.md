@@ -22,6 +22,6 @@
 LinkedIn: www.linkedin.com/in/yatinsayania
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yatinsayania&show_icons=true)
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=yatinsayania&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yatinsayania&layout=compact)
+[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yatinsayania&layout=compact)
