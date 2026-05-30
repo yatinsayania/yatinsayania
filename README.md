@@ -19,4 +19,4 @@
 
 ## Connect With Me
 
-LinkedIn: https://www.linkedin.com/notifications/?filter=all
+LinkedIn: www.linkedin.com/in/yatinsayania
