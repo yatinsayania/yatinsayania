@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Yatin Sayania
 
-<!--
-**yatinsayania/yatinsayania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Sr. IT Manager
 
-Here are some ideas to get you started:
+📍 Gujarat, India
 
-- 🔭 I’m currently working on ... Sr. IT Manager
-- 🌱 I’m currently learning ... Generative AI 
-- 👯 I’m looking to collaborate on ... AI
-- 🤔 I’m looking for help with ... AI
-- 💬 Ask me about ...
-- 📫 How to reach me: ... @yatinsayania
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 SAP Business One
+🔹 IT Infrastructure
+🔹 Network Security
+🔹 ERP Implementation
+🔹 IT Project Management
+
+## Currently Learning
+
+- AI Automation
+- Cyber Security
+- Cloud Technologies
+- Python
+
+## Connect With Me
+
+LinkedIn: YOUR_LINKEDIN_URL
