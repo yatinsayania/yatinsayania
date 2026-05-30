@@ -16,6 +16,8 @@
 - Cyber Security
 - Cloud Technologies
 - Python
+- Power BI
+- Data Analyst
 
 ## Connect With Me
 
