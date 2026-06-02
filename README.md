@@ -2,6 +2,9 @@
 
 ## Sr. IT Manager | ERP | Infrastructure | Cybersecurity | Automation
 
+**Experienced IT Manager who also builds and automates solutions.**
+
+
 Technology professional with experience in IT Infrastructure, ERP Implementation, Information Security, Business Process Automation, and Team Leadership.
 
 I enjoy solving business problems using technology and continuously learning new tools in Cloud, AI, Python, and Automation.
