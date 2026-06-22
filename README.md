@@ -1,21 +1,21 @@
 # Hi, I'm Yatin Sayania 👋
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 ## Sr. IT Manager | ERP | Infrastructure | Cybersecurity | Automation
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 **Experienced IT Manager who also builds and automates solutions.**
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 Technology professional with experience in IT Infrastructure, ERP Implementation, Information Security, Business Process Automation, and Team Leadership.
 
 I enjoy solving business problems using technology and continuously learning new tools in Cloud, AI, Python, and Automation.
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 ## 🚀 About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+**🔹 Sr. IT Manager at Rex-Tone Industries Ltd.**
 
-🔹 Sr. IT Manager at Rex-Tone Industries Ltd.
-
-🔹 Managing:
+**🔹 Managing:**
 - IT Infrastructure
 - ERP Systems
 - Cybersecurity
@@ -25,7 +25,7 @@ I enjoy solving business problems using technology and continuously learning new
 - Data-Analysis
 - Data Visualization
 
-🔹 Currently Learning:
+**🔹 Currently Learning:**
 - Python
 - GitHub
 - AI Automation
@@ -34,7 +34,7 @@ I enjoy solving business problems using technology and continuously learning new
 - DevOps Fundamentals
 - Power BI
 
-🔹 Interests:
+**🔹 Interests:**
 - Technology
 - Problem Solving
 - IT Leadership
@@ -45,6 +45,7 @@ I enjoy solving business problems using technology and continuously learning new
 ---
 
 ## 🛠️ Technologies & Tools
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 ### Infrastructure
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -95,6 +96,7 @@ I enjoy solving business problems using technology and continuously learning new
 ---
 
 ## 📌 Featured Projects
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 ### ERP Implementation Projects
 - SAP Business One Deployments
@@ -109,6 +111,7 @@ I enjoy solving business problems using technology and continuously learning new
 - IT Operations Automation
 
 ---
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 ## 📈 GitHub Stats
 
@@ -119,6 +122,7 @@ I enjoy solving business problems using technology and continuously learning new
 <!-- Profile Visitors Count -->
 <p align="center"><img src="https://komarev.com/ghpvc/?username=yatinsayania&label=Profile%20views&color=0e75b6&style=flat" alt="yatinsayania" /></p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 ## 🎯 Current Goals
 
@@ -128,8 +132,7 @@ I enjoy solving business problems using technology and continuously learning new
 - Contribute to Technical Communities
 - Strengthen DevOps Knowledge
 
-
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 ## 📫 Connect With Me
 
 - LinkedIn: www.linkedin.com/in/yatinsayania
@@ -138,6 +141,6 @@ I enjoy solving business problems using technology and continuously learning new
 
 - Portfolio: https://yatinsayania.cyberbrd.dpdns.org/#
 
----
-
-> "Technology should simplify business, not complicate it."
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+"Technology should simplify business, not complicate it."
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
