@@ -32,6 +32,7 @@ I enjoy solving business problems using technology and continuously learning new
 - n8n
 - Cloud Technologies
 - DevOps Fundamentals
+- Power BI
 
 🔹 Interests:
 - Technology
