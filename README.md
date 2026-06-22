@@ -22,6 +22,8 @@ I enjoy solving business problems using technology and continuously learning new
 - Network & Server Administration
 - IT Operations
 - Vendor Management
+- Data-Analysis
+- Data Visualization
 
 🔹 Currently Learning:
 - Python
