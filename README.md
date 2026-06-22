@@ -11,8 +11,6 @@ I enjoy solving business problems using technology and continuously learning new
 
 ---
 
-Style: for-the-badge https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge
-
 ## 🚀 About Me
 
 🔹 Sr. IT Manager at Rex-Tone Industries Ltd.
@@ -115,10 +113,12 @@ Style: for-the-badge https://img.shields.io/badge/build-passing-brightgreen?styl
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yatinsayania&show_icons=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yatinsayania&layout=compact)
+<!-- Readme Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yatinsayania&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<!-- Profile Visitors Count -->
+<p align="center"><img src="https://komarev.com/ghpvc/?username=yatinsayania&label=Profile%20views&color=0e75b6&style=flat" alt="yatinsayania" /></p>
 
----
 
 ## 🎯 Current Goals
 
@@ -128,7 +128,7 @@ Style: for-the-badge https://img.shields.io/badge/build-passing-brightgreen?styl
 - Contribute to Technical Communities
 - Strengthen DevOps Knowledge
 
----
+
 
 ## 📫 Connect With Me
 
