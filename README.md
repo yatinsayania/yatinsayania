@@ -142,5 +142,24 @@ I enjoy solving business problems using technology and continuously learning new
 - Portfolio: https://yatinsayania.cyberbrd.dpdns.org/#
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-"Technology should simplify business, not complicate it."
+<div align="center">
+"Technology should simplify business, not complicate it. My mission is to build secure, reliable, and practical IT solutions that help people work smarter."
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+
+<div align="center">
+
+### 💬 Quote On making a change
+
+> * “Being the richest man in the cemetery doesn’t matter to me … Going to bed at night saying we’ve done something wonderful… that’s what matters to me.” *  
+> — Steve Jobs
+
+### 💬 Steve Jobs Quote – On character
+
+> “You can’t connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. You have to trust in something — your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life.”
+> — Steve Jobs
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:6366F1,100:8B5CF6&height=120&section=footer"/>
+
+</div>
