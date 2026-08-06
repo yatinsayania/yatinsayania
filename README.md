@@ -167,6 +167,12 @@ I enjoy solving business problems using technology and continuously learning new
 
 > “I wish I was the monster you think I am.”
 > — Tyrion Lannister
+
+### 💬 Game of Thrones Quote – Jon Snow on leadership and duty
+
+> “Sometimes there is no right choice, only the one that hurts the least.”
+> — Jon Snow
+
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:6366F1,100:8B5CF6&height=120&section=footer"/>
