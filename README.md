@@ -150,7 +150,7 @@ I enjoy solving business problems using technology and continuously learning new
 
 ### 💬 Quote On making a change
 
-> * “Being the richest man in the cemetery doesn’t matter to me … Going to bed at night saying we’ve done something wonderful… that’s what matters to me.” *  
+>  “Being the richest man in the cemetery doesn’t matter to me … Going to bed at night saying we’ve done something wonderful… that’s what matters to me.”   
 > — Steve Jobs
 
 ### 💬 Steve Jobs Quote – On character
@@ -158,6 +158,15 @@ I enjoy solving business problems using technology and continuously learning new
 > “You can’t connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. You have to trust in something — your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life.”
 > — Steve Jobs
 
+### 💬 Steve Jobs Quote – On innovation and leadership
+
+> “Innovation distinguishes between a leader and a follower.”
+> — Steve Jobs
+
+### 💬 Game of Thrones Quote – Tyrion Lannister on pain and defiance
+
+> “I wish I was the monster you think I am.”
+> — Tyrion Lannister
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:6366F1,100:8B5CF6&height=120&section=footer"/>
